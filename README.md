@@ -10,7 +10,7 @@
 ### Desenvolvedores:
   
  * [Air martins](https://github.com/AirMartins)
- * [Debora Machado](https://github.com/Deborah-Nery)
+ * [Deborah Nery](https://github.com/Deborah-Nery)
  * [Lucas Brum](https://github.com/Lucas-Brum)
   
   

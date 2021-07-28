@@ -2,7 +2,7 @@
   
   Aplicativo tem objetivo de fazer a comunicação do animal perdido com a pessoa que pensa em adquirir o animal
   
-  Aplicativo tem objetivo de aproximar cães perdidos com pessoas, simpatizantes, que desejam realizar à adoção 
+  *Aplicativo tem objetivo de aproximar cães perdidos com pessoas, simpatizantes, que desejam realizar à adoção 
   
   ### PO:
 

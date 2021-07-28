@@ -11,9 +11,10 @@
   
 ### Desenvolvedores:
   
- * [Air martins](https://github.com/AirMartins)
+ * [Air Martins](https://github.com/AirMartins)
  * [Deborah Nery](https://github.com/Deborah-Nery)
  * [Lucas Brum](https://github.com/Lucas-Brum)
+ * [Luis Costa](https://github.com/Luis-Costa)
   
   
   Proximos objetivos do projeto:

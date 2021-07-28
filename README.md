@@ -1,8 +1,10 @@
 # [Central Animal](https://fullstack-r2plg4vtt-devs-need-love-too.vercel.app/register/index.html)   
   
-  Aplicativo tem objetivo de fazer a comunidação do animal perdido com apessoa que pensa em adquirir o animal
+  Aplicativo tem objetivo de fazer a comunicação do animal perdido com a pessoa que pensa em adquirir o animal
   
-### PO:
+  Aplicativo tem objetivo de aproximar cães perdidos com pessoas, simpatizantes, que desejam realizar à adoção 
+  
+  ### PO:
 
 * [Lucas Brum](https://github.com/Lucas-Brum)
 

@@ -4,19 +4,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="cadastro.css">
     <link rel = "preconnect" href = "https://fonts.googleapis.com">
-<link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
-<link href = "https: //fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap "rel =" stylesheet ">
+    <link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin>
+    <link href = "https: //fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap "rel =" stylesheet ">
+    <script src="cadastro.js"></script>
     <title>Cadastro</title>
 </head>
 <body>
     <h1>Cadastro de Usuario</h1>
 
+
     <form class = "form center" action="../tankyouPage/tankyouPage.html" method="post">
 
         <div class="space">
-            <label for="name">Nome</label>
+            <label for="name">Nome Completo</label>
             <br>
             <input type="text" id="name" />
         </div>
@@ -30,9 +32,14 @@
             <br>
             <input type="password" id="pass" name="password" minlength="8" required>
         </div>
+        <div class="space">
+            <label for="confiPass">Confirme a Senha*</label>
+            <br>
+            <input type="password"  id="confiPass" name="password" minlength="8" required>
+        </div>
 
         <div class="space button">
-            <button type="submit">Cadastrar</button>
+            <button id = "button" type="submit">Cadastrar</button>
         </div>
 
     </form>

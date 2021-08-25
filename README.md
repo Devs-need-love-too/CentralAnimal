@@ -13,7 +13,7 @@
  * [Air Martins](https://github.com/AirMartins)
  * [Deborah Nery](https://github.com/Deborah-Nery)
  * [Lucas Brum](https://github.com/Lucas-Brum)
- * [Luis Costa](https://github.com/Luis-Costa)
+ * [Luis Costa](https://github.com/LuisCosta94)
  * [Marina Botti](https://github.com/marinabotti)
   
   
